@@ -1,1 +1,0 @@
-console.log("Java Script from the external .js file code.")
